@@ -7,7 +7,7 @@
   - What will you learn?
 
 ## Begin thinking about design 10 min
-  - http://www.webdesign-inspiration.com
+  - <a href="http://www.webdesign-inspiration.com" target="_blank">Web Design Inspiration</a>
     - Tell me what you like about the site?
       - color scheme
       - layout
@@ -28,7 +28,7 @@
     - My Story
 
 ## Begin designing 30 min
-  - http://www.precursorapp.com or graph paper & pencil
+  - <a href="http://www.precursorapp.com" target="_blank">Precursor App</a> or graph paper & pencil
   - answer the following questions:
     - What is the purpose of the site?
     - What is important to my audience?
@@ -36,4 +36,4 @@
 ## Begin thinking about layout options 20 min
   - How will you build your site?
   - div & span
-  - [HTML 5 semantic markup] (http://www.w3schools.com/html/html5_semantic_elements.asp)
+  - <a href="http://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">HTML 5 semantic markup</a>
