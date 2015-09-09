@@ -4,6 +4,7 @@
   - My name is Adam Recvlohe
   - Who am I?
   - What do I do?
+  - What will you learn?
 
 ## Begin thinking about design 10 min
   - http://www.webdesign-inspiration.com
