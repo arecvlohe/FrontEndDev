@@ -1,6 +1,9 @@
 # Lesson Plan 1
 
 ## Introduction to course
+  - My name is Adam Recvlohe
+  - Who am I?
+  - What do I do?
 
 ## Begin thinking about design 10 min
   - http://www.webdesign-inspiration.com
