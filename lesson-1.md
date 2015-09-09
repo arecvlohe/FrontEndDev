@@ -1,9 +1,9 @@
-# Lesson Plan
+# Lesson Plan 1
 
 ## Introduction to course
 
 ## Begin thinking about design 10 min
-  - (http://www.webdesign-inspiration.com)
+  - http://www.webdesign-inspiration.com
     - Tell me what you like about the site?
       - color scheme
       - layout
@@ -24,7 +24,7 @@
     - My Story
 
 ## Begin designing 30 min
-  - (http://www.precursorapp.com) or graph paper & pencil
+  - http://www.precursorapp.com or graph paper & pencil
   - answer the following questions:
     - What is the purpose of the site?
     - What is important to my audience?
