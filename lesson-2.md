@@ -10,8 +10,8 @@
 
 ## Layout Example (20 min)
   - Using HTML5 and CSS3
-  - Simple HTML5 Layout
-  - <a href="http://www.w3schools.com/html/html_layout.asp" target="_blank">W3 Schools HTML5 Layout</a>
+    - Simple HTML5 Layout
+    - <a href="http://www.w3schools.com/html/html_layout.asp" target="_blank">W3 Schools HTML5 Layout</a>
   - Legible and readable
   - Easy to debug
 
