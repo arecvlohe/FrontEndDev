@@ -21,7 +21,7 @@
 ## Preprocessors Jade and Sass (10 min)
   - Improves readability
   - Makes it even easier to debug
-  - ![Front End Definitions](front-end-definitions.jpg)
+  - ![Front End Definitions](front-end-definitions.pdf)
 
 ## Grid Systems (10 min)
   - <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
