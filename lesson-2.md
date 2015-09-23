@@ -14,10 +14,13 @@
     - <a href="http://www.w3schools.com/html/html_layout.asp" target="_blank">W3 Schools HTML5 Layout</a>
   - Legible and readable
   - Easy to debug
+  - Example using Flexbox
+    - <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS-Tricks Complete Guide to Flexbox</a>
 
 ## Preprocessors Jade and Sass (10 min)
   - Improves readability
   - Makes it even easier to debug
+  - ![Front End Definitions](front-end-definitions.jpg)
 
 ## Grid Systems (10 min)
   - <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
