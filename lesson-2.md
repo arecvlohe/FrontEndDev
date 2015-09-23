@@ -10,6 +10,7 @@
 
 ## Layout Example (20 min)
   - Using HTML5 and CSS3
+  - <a href="https://thimble.mozilla.org/" target="_blank">Mozilla Thimble</a>
     - Simple HTML5 Layout
     - <a href="http://www.w3schools.com/html/html_layout.asp" target="_blank">W3 Schools HTML5 Layout</a>
   - Legible and readable
